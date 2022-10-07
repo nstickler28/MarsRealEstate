@@ -27,5 +27,3 @@ data class MarsProperty(
     val imgSrcUrl: String,
     val type: String,
     val price: Double)
-
-
